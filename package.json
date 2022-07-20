@@ -7,7 +7,8 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.6"
+    "nuxt": "3.0.0-rc.6",
+    "nuxt-windicss": "^2.4.3"
   },
   "dependencies": {
     "three": "^0.142.0"
