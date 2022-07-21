@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@types/three": "^0.142.0",
+    "firebase": "^9.9.0",
     "three": "^0.142.0"
   }
 }
