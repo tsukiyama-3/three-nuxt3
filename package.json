@@ -11,6 +11,7 @@
     "nuxt-windicss": "^2.4.3"
   },
   "dependencies": {
+    "@types/three": "^0.142.0",
     "three": "^0.142.0"
   }
 }
